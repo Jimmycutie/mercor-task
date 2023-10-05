@@ -11,7 +11,7 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-        'laser': "url('./static/vector.png')"
+        'laser': "url('./static/Vector.png')"
       },
       fontFamily: {
         pop: ['var(--font-surt)'],
